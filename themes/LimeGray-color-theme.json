@@ -1,5 +1,6 @@
 {
     "name": "LimeGray",
+    "semanticHighlighting": true,
     "colors": {
         "actionBar.toggledBackground": "#383a49",
         "activityBar.activeBackground": "#b1b1b1",
