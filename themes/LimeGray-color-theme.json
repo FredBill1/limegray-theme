@@ -77,6 +77,7 @@
         "statusBar.noFolderForeground": "#ffffff",
         "statusBarItem.remoteBackground": "#16825d",
         "statusBarItem.remoteForeground": "#ffffff",
+        "editorStickyScroll.border": "#ffffff99",
         "tab.activeBackground": "#4f4f4f",
         "tab.activeForeground": "#ffffff",
         "tab.border": "#ffffff",
