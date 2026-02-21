@@ -55,6 +55,7 @@
         "minimap.errorHighlight": "#ff0000",
         "minimap.findMatchHighlight": "#4cc700de",
         "minimap.selectionHighlight": "#ffffff1e",
+        "minimap.selectionOccurrenceHighlight": "#13e71e5f",
         "minimap.warningHighlight": "#ffee05",
         "minimapSlider.activeBackground": "#ffffff3b",
         "minimapSlider.background": "#b6b4b470",
