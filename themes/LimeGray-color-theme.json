@@ -40,6 +40,7 @@
         "editorLineNumber.foreground": "#4cc700",
         "editorWidget.border": "#ffffff",
         "editorWidget.foreground": "#00ac00",
+        "editorWordWrapIndicator.foreground": "#4cc700",
         "foreground": "#e4e4e4",
         "gitDecoration.ignoredResourceForeground": "#aaaaaa",
         "input.placeholderForeground": "#a6a6a6",
