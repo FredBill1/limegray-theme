@@ -93,8 +93,9 @@
         "terminal.background": "#000000",
         "terminal.inactiveSelectionBackground": "#3a3d41",
         "titleBar.activeBackground": "#4f4f4f",
-        "titleBar.activeForeground": "#4cc700",
+        "titleBar.activeForeground": "#62ff01",
         "titleBar.border": "#ffffff",
+        "titleBar.inactiveForeground": "#62ff01",
         "widget.border": "#303031",
         "window.activeBorder": "#ffffff",
         "window.inactiveBorder": "#00ac00"
